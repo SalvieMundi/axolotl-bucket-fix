@@ -1,0 +1,214 @@
+{
+  "overrides": [
+    {
+      "predicate": { 
+        "Variant": 0,
+        "Age": 0
+      },
+      "model": "minecraft:item/axolotl_bucket_baby"
+    },
+    {
+      "predicate": {  
+        "Variant": 0,
+        "Age": 1
+      },
+      "model": "minecraft:item/axolotl_bucket"
+    },
+    {
+      "predicate": {  
+        "Variant": 1,
+        "Age": 0
+      },
+      "model": "minecraft:item/axolotl_bucket_1_baby"
+    },
+    {
+      "predicate": {  
+        "Variant": 1,
+        "Age": 1
+      },
+      "model": "minecraft:item/axolotl_bucket_1"
+    },
+    {
+      "predicate": {  
+        "Variant": 2,
+        "Age": 0
+      },
+      "model": "minecraft:item/axolotl_bucket_2_baby"
+    },
+    {
+      "predicate": {  
+        "Variant": 2,
+        "Age": 1
+      },
+      "model": "minecraft:item/axolotl_bucket_2"
+    },
+    {
+      "predicate": {  
+        "Variant": 3,
+        "Age": 0
+      },
+      "model": "minecraft:item/axolotl_bucket_3_baby"
+    },
+    {
+      "predicate": {  
+        "Variant": 3,
+        "Age": 1
+      },
+      "model": "minecraft:item/axolotl_bucket_3"
+    },
+    {
+      "predicate": {  
+        "Variant": 4,
+        "Age": 0
+      },
+      "model": "minecraft:item/axolotl_bucket_4_baby"
+    },
+    {
+      "predicate": {  
+        "Variant": 4,
+        "Age": 1
+      },
+      "model": "minecraft:item/axolotl_bucket_4"
+    },
+    {
+      "predicate": {  
+        "Variant": 5,
+        "Age": 0
+      },
+      "model": "minecraft:item/axolotl_bucket_lucia_baby"
+    },
+    {
+      "predicate": {  
+        "Variant": 5,
+        "Age": 1
+      },
+      "model": "minecraft:item/axolotl_bucket_lucia"
+    },
+    {
+      "predicate": {  
+        "Variant": 6,
+        "Age": 0
+      },
+      "model": "minecraft:item/axolotl_bucket_wilder_baby"
+    },
+    {
+      "predicate": {  
+        "Variant": 6,
+        "Age": 1
+      },
+      "model": "minecraft:item/axolotl_bucket_wilder"
+    },
+    {
+      "predicate": {  
+        "Variant": 7,
+        "Age": 0
+      },
+      "model": "minecraft:item/axolotl_bucket_golden_baby"
+    },
+    {
+      "predicate": {  
+        "Variant": 7,
+        "Age": 1
+      },
+      "model": "minecraft:item/axolotl_bucket_golden"
+    },
+    {
+      "predicate": {  
+        "Variant": 8,
+        "Age": 0
+      },
+      "model": "minecraft:item/axolotl_bucket_green_baby"
+    },
+    {
+      "predicate": {  
+        "Variant": 8,
+        "Age": 1
+      },
+      "model": "minecraft:item/axolotl_bucket_green"
+    },
+    {
+      "predicate": {  
+        "Variant": 9,
+        "Age": 0
+      },
+      "model": "minecraft:item/axolotl_bucket_skulk_baby"
+    },
+    {
+      "predicate": {  
+        "Variant": 9,
+        "Age": 1
+      },
+      "model": "minecraft:item/axolotl_bucket_skulk"
+    },
+    {
+      "predicate": {  
+        "Variant": 10,
+        "Age": 0
+      },
+      "model": "minecraft:item/axolotl_bucket_black_baby"
+    },
+    {
+      "predicate": {  
+        "Variant": 10,
+        "Age": 1
+      },
+      "model": "minecraft:item/axolotl_bucket_black"
+    },
+    {
+      "predicate": {  
+        "Variant": 11,
+        "Age": 0
+      },
+      "model": "minecraft:item/axolotl_bucket_red_baby"
+    },
+    {
+      "predicate": {  
+        "Variant": 11,
+        "Age": 1
+      },
+      "model": "minecraft:item/axolotl_bucket_red"
+    },
+    {
+      "predicate": {  
+        "Variant": 12,
+        "Age": 0
+      },
+      "model": "minecraft:item/axolotl_bucket_glowxolotl_baby"
+    },
+    {
+      "predicate": {  
+        "Variant": 12,
+        "Age": 1
+      },
+      "model": "minecraft:item/axolotl_bucket_glowxolotl"
+    },
+    {
+      "predicate": {  
+        "Variant": 13,
+        "Age": 0
+      },
+      "model": "minecraft:item/axolotl_bucket_white_baby"
+    },
+    {
+      "predicate": {  
+        "Variant": 13,
+        "Age": 1
+      },
+      "model": "minecraft:item/axolotl_bucket_white"
+    },
+    {
+      "predicate": {  
+        "Variant": 14,
+        "Age": 0
+      },
+      "model": "minecraft:item/axolotl_bucket_cyan_baby"
+    },
+    {
+      "predicate": {  
+        "Variant": 14,
+        "Age": 1
+      },
+      "model": "minecraft:item/axolotl_bucket_cyan"
+    }
+  ]
+}

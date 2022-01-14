@@ -14,7 +14,7 @@ public class AxolotlItemFixMain implements ClientModInitializer {
 			float axolotlType = 0;
 			if (itemStack.getTag() != null && itemStack.getTag().contains("Variant"))
 				axolotlType = itemStack.getTag().getInt("Variant");
-			return axolotlType * 0.01f + 0.0001f;
+			return axolotlType;
 		});
 
 		FabricModelPredicateProviderRegistry.register(Items.AXOLOTL_BUCKET, new Identifier("age"), (itemStack, clientWorld, livingEntity, i) -> {
